@@ -1,0 +1,139 @@
+/* ===== FONTES (arquivos na pasta fontes/) ===== */
+@font-face{font-family:"Josefin Sans";font-weight:300;font-style:normal;font-display:swap;src:url("fontes/josefin-sans-latin-300-normal.woff2") format("woff2")}
+@font-face{font-family:"Josefin Sans";font-weight:400;font-style:normal;font-display:swap;src:url("fontes/josefin-sans-latin-400-normal.woff2") format("woff2")}
+@font-face{font-family:"Cormorant Garamond";font-weight:300;font-style:normal;font-display:swap;src:url("fontes/cormorant-garamond-latin-300-normal.woff2") format("woff2")}
+@font-face{font-family:"Josefin Sans";font-weight:600;font-style:normal;font-display:swap;src:url("fontes/josefin-sans-latin-600-normal.woff2") format("woff2")}
+@font-face{font-family:"Cormorant Garamond";font-weight:300;font-style:italic;font-display:swap;src:url("fontes/cormorant-garamond-latin-300-italic.woff2") format("woff2")}
+@font-face{font-family:"Cormorant Garamond";font-weight:600;font-style:normal;font-display:swap;src:url("fontes/cormorant-garamond-latin-600-normal.woff2") format("woff2")}
+@font-face{font-family:"Cormorant Garamond";font-weight:500;font-style:normal;font-display:swap;src:url("fontes/cormorant-garamond-latin-500-normal.woff2") format("woff2")}
+
+/* ===== CORES, FONTES E MEDIDAS (mude aqui) ===== */
+:root{
+  --cor-principal:#F45E65;          /* vermelho-coral do tema do Wix */
+  --cor-principal-escura:#D2434B;   /* versão mais escura para textos pequenos (contraste) */
+  --cor-botao-topo:#E9636A;         /* degradê do botão ativo */
+  --cor-botao-base:#C23A42;
+  --cor-texto:#1a1a1a;
+  --cor-fundo:#ffffff;
+  --cor-lateral:#f9afb2;            /* rosa das bordas da página */
+  --fonte-titulo:"Josefin Sans",Futura,"Trebuchet MS",Arial,sans-serif;
+  --fonte-texto:"Cormorant Garamond",Garamond,Georgia,serif;
+  --largura:820px;
+
+  /* TAMANHOS DO CABEÇALHO E DO TEXTO (mude aqui para aumentar ou diminuir) */
+  --altura-logo:150px;
+  --tam-titulo-site:1.2rem;   /* título "Laboratório de Espectroscopia..." */
+  --tam-subtitulo:.9rem;      /* "Programa de Pós-Graduação..." */
+  --tam-menu:.9rem;           /* letras do menu */
+  --tam-texto:18px;           /* texto corrido das páginas */
+}
+
+*{box-sizing:border-box}
+
+/* Fundo: branco no centro, vermelho claro nas laterais, em todas as páginas */
+html{min-height:100%;background:linear-gradient(to right,
+  var(--cor-lateral) 0%,#fcd6d8 16%,#fef1f2 26%,#fff 37%,#fff 63%,
+  #fef1f2 74%,#fcd6d8 84%,var(--cor-lateral) 100%) fixed var(--cor-fundo)}
+body{margin:0;min-height:100vh;display:flex;flex-direction:column;
+  font-family:var(--fonte-texto);font-weight:300;font-size:var(--tam-texto);line-height:1.5;color:var(--cor-texto)}
+
+h1,h2,h3,h4{font-family:var(--fonte-titulo);font-weight:400;line-height:1.2;margin:1.2em 0 .5em}
+h2{font-size:2.4rem;margin-top:0;font-weight:600}
+h3{font-size:1.5rem;font-weight:600}
+strong{font-weight:600}
+h4{font-size:1.15rem}
+p{margin:0 0 .8em}
+a{color:var(--cor-principal-escura)}
+a:focus-visible{outline:3px solid var(--cor-principal-escura);outline-offset:3px}
+
+/* ===== CABEÇALHO ===== */
+header{max-width:var(--largura);width:100%;margin:0 auto;padding:1rem 1rem .8rem}
+.marca{display:flex;align-items:center;gap:1rem;text-decoration:none;color:var(--cor-principal-escura)}
+.marca img{height:var(--altura-logo);width:auto;flex:none}
+.titulos{flex:1;text-align:center}
+.marca h1{font-size:var(--tam-titulo-site);font-weight:300;margin:0 0 .5rem;text-decoration:underline;text-underline-offset:3px}
+.marca p{margin:0;font-family:var(--fonte-titulo);font-weight:300;font-size:var(--tam-subtitulo)}
+
+nav{display:flex;flex-wrap:wrap;justify-content:center;margin-top:.6rem;border-radius:6px;overflow:hidden;
+  background:linear-gradient(#fff,#e9e9e9);box-shadow:0 2px 5px rgba(0,0,0,.3)}
+nav a{flex:1 1 auto;text-align:center;padding:.55rem .6rem;font-family:var(--fonte-titulo);font-weight:300;font-size:var(--tam-menu);
+  letter-spacing:.02em;color:var(--cor-principal-escura);text-decoration:none;border-left:1px solid #d6d6d6}
+nav a:first-child{border-left:0}
+nav a:hover{background:rgba(244,94,101,.12)}
+nav a.ativo{background:linear-gradient(var(--cor-botao-topo),var(--cor-botao-base));color:#fff}
+
+/* ===== CONTEÚDO ===== */
+main{max-width:var(--largura);width:100%;margin:0 auto;padding:1.5rem 1rem 2rem;flex:1}
+.sobre{display:flex;gap:2rem;align-items:center;flex-wrap:wrap}
+.sobre>div{flex:1;min-width:280px;text-align:justify}
+.sobre img{max-width:100%;width:320px;border-radius:8px}
+.grade{display:flex;flex-wrap:wrap;gap:1.5rem;margin-bottom:1rem}
+.pessoa{text-align:center;width:140px;color:inherit;text-decoration:none;font-size:1rem;line-height:1.25}
+.pessoa img{width:140px;height:175px;object-fit:cover;border-radius:6px;display:block;margin-bottom:.4rem}
+a.pessoa:hover span{text-decoration:underline}
+
+
+/* ===== PÁGINAS DE TEXTO (ex.: Efeito Raman) ===== */
+.artigo p,.artigo li{text-align:justify}
+.artigo h2{font-size:1.9rem;margin:0 0 .4rem}
+.artigo h3{font-size:1.3rem;margin:0 0 .4rem}
+.artigo section{margin-bottom:3rem}
+.artigo section::after{content:"";display:block;clear:both}
+.artigo img{max-width:100%;height:auto}
+.imagem-direita{float:right;width:min(42%,340px);margin:.3rem 0 1rem 1.5rem}
+.figura-centro{display:block;margin:1rem auto;width:min(100%,430px)}
+.figura-larga{display:block;margin:1rem auto;width:min(100%,640px)}
+.artigo ul{margin:.4rem 0 .8rem;padding-left:1.4rem}
+.artigo li{margin-bottom:.3rem}
+.linha-tempo{display:grid;grid-template-columns:1fr 1fr;gap:2rem;align-items:start;max-width:480px;margin:2rem auto 0}
+.linha-tempo>div:nth-child(even){margin-top:3rem}
+.linha-tempo h4{font-size:1.15rem;font-weight:600;color:var(--cor-principal-escura);margin:0 0 .2rem}
+.linha-tempo p{margin:0}
+.linha-tempo em{display:block}
+
+
+/* ===== PÁGINA SOFTWARES: texto à esquerda, logotipo à direita ===== */
+.software{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(140px,1fr);gap:1.5rem 2rem;align-items:center;margin-bottom:2.5rem}
+.software h4{font-size:1.2rem;font-weight:600;margin:0 0 .4rem}
+.software h4 a{color:inherit;text-decoration:underline}
+.software img{justify-self:center;width:min(100%,240px);height:auto}
+
+
+/* ===== AGENDAMENTOS: duas colunas e links dentro do texto ===== */
+.artigo p a,.artigo li a{color:var(--cor-texto);text-decoration:underline}
+.duas-colunas{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem 2.5rem;align-items:start}
+
+
+/* ===== INFRAESTRUTURA: galeria das DACs (3 imagens) ===== */
+.galeria-dacs{display:grid;grid-template-columns:1.23fr 1.03fr;gap:3px;align-items:stretch}
+.galeria-dacs img{width:100%;height:100%;object-fit:cover;display:block}
+.galeria-dacs img:first-child{grid-column:1/-1}
+
+/* ===== RODAPÉ (endereço, contato, horário, mapa e políticas) ===== */
+footer{max-width:var(--largura);width:100%;margin:0 auto;padding:1rem 1rem 2rem}
+.info{display:flex;flex-wrap:wrap;gap:1.5rem 2rem;border-top:1px solid rgba(0,0,0,.15);padding-top:1.2rem}
+.info>div{flex:1 1 220px}
+.info h3{font-size:1.5rem;margin:0 0 .6rem}
+.info p{margin:0}
+.botao-mapa{display:block;width:fit-content;margin:1.5rem auto 0;padding:.7rem 1.4rem;border-radius:6px;color:#fff;text-decoration:none;
+  font-family:var(--fonte-titulo);font-size:1.05rem;background:linear-gradient(var(--cor-botao-topo),var(--cor-botao-base));box-shadow:0 2px 5px rgba(0,0,0,.3)}
+.botao-mapa:hover{filter:brightness(1.08)}
+.politicas{margin-top:2rem;text-align:center;font-size:1rem}
+.politicas a{margin:0 1rem}
+
+/* ===== CELULAR ===== */
+@media (max-width:600px){
+  body{--tam-texto:17px}
+  :root{--altura-logo:90px}
+  .marca{flex-direction:column;text-align:center}
+  .marca img{height:110px}
+  nav a{flex:1 1 45%;border-top:1px solid #d6d6d6}
+  nav a:first-child{border-top:0}
+  .sobre>div{text-align:left}
+  .imagem-direita{float:none;width:100%;margin:0 0 1rem}
+  .linha-tempo{grid-template-columns:1fr}
+  .software{grid-template-columns:1fr}
+  .duas-colunas{grid-template-columns:1fr}
+  .software img{justify-self:start;width:min(100%,200px)}
+  .linha-tempo>div:nth-child(even){margin-top:0}
+}
