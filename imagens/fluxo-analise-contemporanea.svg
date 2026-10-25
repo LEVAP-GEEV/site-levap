@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 680 350" viewBox="0 0 680 350" height="700" width="1360" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <defs>
+            <marker orient="auto" markerHeight="6" markerWidth="6" refY="5" refX="8" viewBox="0 0 10 10" id="17cf0777-ae88-46c1-a1dc-003cd6960996">
+                <path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#5F5E5A" fill="none" d="m2 1 6 4-6 4"/>
+            </marker>
+        </defs>
+        <path fill="#FFFFFF" d="M680 0v350H0V0z"/>
+        <g stroke-width=".5" stroke="#534AB7">
+            <path d="M165 28v40a8 8 0 0 1-8 8H43a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8h114a8 8 0 0 1 8 8z" fill="#EEEDFE"/>
+            <path d="M325 28v40a8 8 0 0 1-8 8H203a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8h114a8 8 0 0 1 8 8z" fill="#EEEDFE"/>
+            <path d="M485 28v40a8 8 0 0 1-8 8H363a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8h114a8 8 0 0 1 8 8z" fill="#EEEDFE"/>
+            <path d="M645 28v40a8 8 0 0 1-8 8H523a8 8 0 0 1-8-8V28a8 8 0 0 1 8-8h114a8 8 0 0 1 8 8z" fill="#EEEDFE"/>
+        </g>
+        <text text-anchor="middle" y="45" x="100" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#3c3489">Espectro bruto</text>
+        <text text-anchor="middle" y="63" x="100" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#534ab7">Bandas e ruído</text>
+        <text text-anchor="middle" y="45" x="260" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#3c3489">Pré-tratamento</text>
+        <text text-anchor="middle" y="63" x="260" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#534ab7">Linha de base</text>
+        <text text-anchor="middle" y="45" x="420" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#3c3489">Calibração</text>
+        <text text-anchor="middle" y="63" x="420" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#534ab7">Amostras padrão</text>
+        <text text-anchor="middle" y="45" x="580" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#3c3489">Modelo</text>
+        <text text-anchor="middle" y="63" x="580" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#534ab7">Padrões e previsão</text>
+        <path stroke-width=".5" stroke="#5F5E5A" fill="#F1EFE8" d="M645 134v34a8 8 0 0 1-8 8H523a8 8 0 0 1-8-8v-34a8 8 0 0 1 8-8h114a8 8 0 0 1 8 8z"/>
+        <text text-anchor="middle" y="149" x="580" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#2c2c2a">Resultado</text>
+        <text text-anchor="middle" y="166" x="580" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#444441">Identificação, teor</text>
+        <path stroke-width=".5" stroke="#0F6E56" fill="#E1F5EE" d="M660 252v66c0 6.627-5.373 12-12 12H32c-6.627 0-12-5.373-12-12v-66c0-6.627 5.373-12 12-12h616c6.627 0 12 5.373 12 12z"/>
+        <text text-anchor="middle" y="271" x="340" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#085041">Interpretação física</text>
+        <text text-anchor="middle" y="297" x="340" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">Absorção, emissão, reflexão, caminho óptico</text>
+        <text text-anchor="middle" y="317" x="340" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">Resolução, ruído, saturação, interferências atmosféricas</text>
+        <g stroke-width="1.5" stroke="#5F5E5A">
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M165 48h28" fill="none"/>
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M325 48h28" fill="none"/>
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M485 48h28" fill="none"/>
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M580 76v48" fill="none"/>
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M580 176v62" fill="none"/>
+        </g>
+        <g stroke-dasharray="4 4" stroke-width="1.5" stroke="#5F5E5A">
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M100 240V80" fill="none"/>
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M260 240V80" fill="none"/>
+            <path marker-end="url(#17cf0777-ae88-46c1-a1dc-003cd6960996)" d="M420 240V80" fill="none"/>
+        </g>
+    </g>
+</svg>

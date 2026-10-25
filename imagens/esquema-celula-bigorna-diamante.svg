@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 1240 640" height="1280" width="2480" viewBox="0 0 1240 640" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <defs>
+            <marker orient="auto" markerHeight="6" markerWidth="6" refY="5" refX="7" viewBox="0 0 10 10" id="9fa277e7-d648-41a2-8d87-ea4373e4e50b">
+                <path fill="#00a651" d="m0 0 10 5-10 5z"/>
+            </marker>
+            <marker orient="auto" markerHeight="6" markerWidth="6" refY="5" refX="7" viewBox="0 0 10 10" id="5963cb06-52fe-4ce6-a6bd-af5259b76b51">
+                <path fill="#e60000" d="m0 0 10 5-10 5z"/>
+            </marker>
+            <marker orient="auto" markerHeight="6" markerWidth="6" refY="5" refX="7" viewBox="0 0 10 10" id="1f1f411d-1a17-4b1f-85bb-ac0b3ff21ef1">
+                <path fill="#333333" d="m0 0 10 5-10 5z"/>
+            </marker>
+            <clipPath id="4371ea5c-4573-47a9-a8fa-7752828c9f40">
+                <path d="M795 244c0 52.467-42.533 95-95 95s-95-42.533-95-95 42.533-95 95-95 95 42.533 95 95"/>
+            </clipPath>
+            <pattern patternTransform="rotate(45)" height="6" width="6" patternUnits="userSpaceOnUse" id="791495d8-134d-49c0-8703-8722d2e8013e">
+                <path fill="#7a808a" d="M6 0v6H0V0z"/>
+                <path stroke-width="2" stroke="#4a4f57" d="M0 0v6"/>
+            </pattern>
+        </defs>
+        <path fill="#ffffff" d="M1240 0v640H0V0z"/>
+        <g transform="translate(180 145)">
+            <path stroke-width="1.5" stroke="#2a2d31" fill="url(#791495d8-134d-49c0-8703-8722d2e8013e)" d="M337 230v28H170v-28z"/>
+            <path stroke-width="1.5" stroke="#2a2d31" fill="url(#791495d8-134d-49c0-8703-8722d2e8013e)" d="M550 230v28H383v-28z"/>
+            <path fill="#aeb6bf" stroke="#55606b" stroke-width="1.5" d="M190 90h90v70l45 70H190z"/>
+            <path fill="#aeb6bf" stroke="#55606b" stroke-width="1.5" d="M530 90h-90v70l-45 70h135z"/>
+            <path fill="#aeb6bf" stroke="#55606b" stroke-width="1.5" d="M190 398h90v-70l45-70H190z"/>
+            <path fill="#aeb6bf" stroke="#55606b" stroke-width="1.5" d="M530 398h-90v-70l-45-70h135z"/>
+            <path fill="#cfe8f7" stroke="#3b8fc4" stroke-width="1.5" d="M280 110h160v50l-45 70h-70l-45-70z"/>
+            <path stroke="#3b8fc4" d="M280 160h160"/>
+            <path fill="#cfe8f7" stroke="#3b8fc4" stroke-width="1.5" d="M280 378h160v-50l-45-70h-70l-45 70z"/>
+            <path stroke="#3b8fc4" d="M280 328h160"/>
+            <path stroke="#c9a800" fill="#fdf1b8" d="M383 230v28h-46v-28z"/>
+            <path stroke-width=".8" stroke="#8a3f0f" fill="#e07b39" d="m352 249 4-11 9-1 4 8-6 6z"/>
+            <path fill="#333333" d="M220 38v10h-30V38z"/>
+            <path stroke="#333333" fill="#7d8791" d="M212 48v42h-14V48z"/>
+            <g stroke="#333333">
+                <path d="m198 56 14 4"/>
+                <path d="m198 64 14 4"/>
+                <path d="m198 72 14 4"/>
+                <path d="m198 80 14 4"/>
+            </g>
+            <path fill="#333333" d="M530 38v10h-30V38z"/>
+            <path stroke="#333333" fill="#7d8791" d="M522 48v42h-14V48z"/>
+            <g stroke="#333333">
+                <path d="m508 56 14 4"/>
+                <path d="m508 64 14 4"/>
+                <path d="m508 72 14 4"/>
+                <path d="m508 80 14 4"/>
+            </g>
+            <path marker-end="url(#1f1f411d-1a17-4b1f-85bb-ac0b3ff21ef1)" stroke-width="3" stroke="#333333" d="M205-8v42"/>
+            <path marker-end="url(#1f1f411d-1a17-4b1f-85bb-ac0b3ff21ef1)" stroke-width="3" stroke="#333333" d="M515-8v42"/>
+            <text fill="#333333" font-size="18" y="8" x="220" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">F</text>
+            <text fill="#333333" font-size="18" y="8" x="530" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">F</text>
+            <path marker-end="url(#1f1f411d-1a17-4b1f-85bb-ac0b3ff21ef1)" stroke-width="3" stroke="#333333" d="M205 448v-44"/>
+            <path marker-end="url(#1f1f411d-1a17-4b1f-85bb-ac0b3ff21ef1)" stroke-width="3" stroke="#333333" d="M515 448v-44"/>
+            <text fill="#333333" font-size="18" y="440" x="220" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">F</text>
+            <text fill="#333333" font-size="18" y="440" x="530" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">F</text>
+            <path stroke-width="1.5" stroke="#00a651" fill="#e9f7ee" d="M150-59v28a4 4 0 0 1-4 4H24a4 4 0 0 1-4-4v-28a4 4 0 0 1 4-4h122a4 4 0 0 1 4 4z"/>
+            <text text-anchor="middle" y="-40" x="85" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#00703a">Laser Raman</text>
+            <path stroke-width="1.5" stroke="#e60000" fill="#fdeaea" d="M430-121v28a4 4 0 0 1-4 4H294a4 4 0 0 1-4-4v-28a4 4 0 0 1 4-4h132a4 4 0 0 1 4 4z"/>
+            <text text-anchor="middle" y="-102" x="360" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#a30000">Espectrômetro</text>
+            <path stroke-width="4" stroke="#555555" d="m344-33 24-24"/>
+            <text y="-38" x="378" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic" font-size="12" fill="#666666">divisor de feixe</text>
+            <path stroke-width="1.5" stroke="#4a8fb5" fill="#e8f4fb" d="M400 56c0 3.866-17.909 7-40 7s-40-3.134-40-7 17.909-7 40-7 40 3.134 40 7z"/>
+            <text text-anchor="end" y="62" x="312" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic" font-size="12" fill="#666666">objetiva</text>
+            <path fill-opacity=".18" fill="#00a651" d="M336 60h48l-24 182z"/>
+            <path marker-end="url(#9fa277e7-d648-41a2-8d87-ea4373e4e50b)" stroke-width="3" stroke="#00a651" fill="none" d="M150-45h206v279"/>
+            <path marker-end="url(#5963cb06-52fe-4ce6-a6bd-af5259b76b51)" stroke-width="3" stroke="#e60000" d="M366 234V-89"/>
+            <path stroke-dasharray="5,4" stroke-width="1.2" stroke="#777777" d="m383 230 301-79.5"/>
+            <path stroke-dasharray="5,4" stroke-width="1.2" stroke="#777777" d="m383 258 301 79.5"/>
+            <path fill="#ffffff" d="M795 244c0 52.467-42.533 95-95 95s-95-42.533-95-95 42.533-95 95-95 95 42.533 95 95"/>
+            <g clip-path="url(#4371ea5c-4573-47a9-a8fa-7752828c9f40)">
+                <path fill="#cfe8f7" stroke="#3b8fc4" stroke-width="1.5" d="M570 120h260v40l-32 45H602l-32-45z"/>
+                <path fill="#cfe8f7" stroke="#3b8fc4" stroke-width="1.5" d="M570 368h260v-40l-32-45H602l-32 45z"/>
+                <path stroke-width="1.5" stroke="#2a2d31" fill="url(#791495d8-134d-49c0-8703-8722d2e8013e)" d="M635 205v78h-45v-78z"/>
+                <path stroke-width="1.5" stroke="#2a2d31" fill="url(#791495d8-134d-49c0-8703-8722d2e8013e)" d="M810 205v78h-45v-78z"/>
+                <path stroke-width="1.2" stroke="#c9a800" fill="#fdf1b8" d="M765 205v78H635v-78z"/>
+                <path stroke-width="1.5" stroke="#8a3f0f" fill="#e07b39" d="m672 258 12-30 32-4 16 20-10 22-32 4z"/>
+                <path marker-end="url(#9fa277e7-d648-41a2-8d87-ea4373e4e50b)" stroke-width="3" stroke="#00a651" d="M690 150v68"/>
+                <path marker-end="url(#5963cb06-52fe-4ce6-a6bd-af5259b76b51)" stroke-width="3" stroke="#e60000" d="M712 220v-70"/>
+            </g>
+            <path stroke-width="2" stroke="#111111" fill="none" d="M795 244c0 52.467-42.533 95-95 95s-95-42.533-95-95 42.533-95 95-95 95 42.533 95 95z"/>
+            <text text-anchor="middle" y="362" x="700" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic" font-size="12" fill="#666666">ampliação da cavidade</text>
+            <path fill="#1f2d3d" d="M-149 52c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="56.5" x="-160" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">1</text>
+            <text y="57" x="-142" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">Parafusos /</text>
+            <text y="74" x="-142" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">sistema de compressão</text>
+            <path stroke="#222222" stroke-width="1.2" fill="none" d="M30 66h168"/>
+            <path fill="#222222" d="M201 66a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+            <path fill="#1f2d3d" d="M-149 142c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="146.5" x="-160" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">2</text>
+            <text y="147" x="-142" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">Bigornas de</text>
+            <text y="164" x="-142" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">diamante</text>
+            <path stroke="#222222" stroke-width="1.2" fill="none" d="m30 152 250-17"/>
+            <path fill="#222222" d="M283 135a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+            <path fill="#1f2d3d" d="M-149 236c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="240.5" x="-160" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">3</text>
+            <text y="241" x="-142" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">Gaxeta</text>
+            <text y="258" x="-142" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">metálica</text>
+            <path stroke="#222222" stroke-width="1.2" fill="none" d="M30 244h142"/>
+            <path fill="#222222" d="M175 244a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+            <path stroke="#222222" stroke-width="1.2" fill="none" d="M541 352H440"/>
+            <path fill="#222222" d="M443 352a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+            <path fill="#1f2d3d" d="M563 352c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="356.5" x="552" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">2</text>
+            <path fill="#00a651" d="M349 20c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="24.5" x="338" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">7</text>
+            <text text-anchor="end" y="16" x="322" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#00703a">Laser Raman</text>
+            <text text-anchor="end" y="33" x="322" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#00703a">incidente</text>
+            <path fill="#e60000" d="M397 20c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="24.5" x="386" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">8</text>
+            <text y="2" x="402" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#a30000">Luz espalhada</text>
+            <text y="19" x="402" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#a30000">de volta ao</text>
+            <text y="36" x="402" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#a30000">espectrômetro</text>
+            <path fill="#1f2d3d" d="M837 172c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="176.5" x="826" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">5</text>
+            <text y="170" x="845" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">Meio transmissor</text>
+            <text y="187" x="845" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">de pressão</text>
+            <path stroke="#222222" stroke-width="1.2" fill="none" d="m815 175-60 39"/>
+            <path fill="#222222" d="M758 214a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+            <path fill="#1f2d3d" d="M837 244c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="248.5" x="826" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">6</text>
+            <text y="249" x="845" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">Amostra</text>
+            <path stroke="#222222" stroke-width="1.2" fill="none" d="M815 244h-85"/>
+            <path fill="#222222" d="M733 244a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+            <path fill="#1f2d3d" d="M837 316c0 6.075-4.925 11-11 11s-11-4.925-11-11 4.925-11 11-11 11 4.925 11 11"/>
+            <text y="320.5" x="826" font-family="Arial,Helvetica,&quot;DejaVu Sans&quot;,sans-serif" font-weight="700" font-size="13" fill="#ffffff" text-anchor="middle">4</text>
+            <text y="314" x="845" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">Cavidade da</text>
+            <text y="331" x="845" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15" fill="#111111">amostra</text>
+            <path stroke="#222222" stroke-width="1.2" fill="none" d="m815 316-50-44"/>
+            <path fill="#222222" d="M768 272a3 3 0 1 1-6 0 3 3 0 0 1 6 0"/>
+            <text text-anchor="middle" y="478" x="360" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic" font-size="12" fill="#666666">Esquema ilustrativo, fora de escala.</text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 680 370" viewBox="0 0 680 370" height="740" width="1360" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <defs>
+            <marker orient="auto" markerHeight="6" markerWidth="6" refY="5" refX="8" viewBox="0 0 10 10" id="6f3a5874-a089-4fef-8a92-49326cb5cc6d">
+                <path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#5F5E5A" fill="none" d="m2 1 6 4-6 4"/>
+            </marker>
+            <marker orient="auto" markerHeight="6" markerWidth="6" refY="5" refX="8" viewBox="0 0 10 10" id="0f09b465-a0f1-488b-b882-2a1da9a96d99">
+                <path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#D85A30" fill="none" d="m2 1 6 4-6 4"/>
+            </marker>
+            <marker orient="auto" markerHeight="6" markerWidth="6" refY="5" refX="8" viewBox="0 0 10 10" id="ee491fd0-5264-4d70-813b-72eb7263b115">
+                <path stroke-linejoin="round" stroke-linecap="round" stroke-width="1.5" stroke="#1D9E75" fill="none" d="m2 1 6 4-6 4"/>
+            </marker>
+        </defs>
+        <path fill="#FFFFFF" d="M680 0v370H0V0z"/>
+        <path stroke-width=".5" stroke="#993C1D" fill="#FAECE7" d="M172 48v274a8 8 0 0 1-8 8H48a8 8 0 0 1-8-8V48a8 8 0 0 1 8-8h116a8 8 0 0 1 8 8z"/>
+        <text text-anchor="middle" y="67" x="106" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#712b13">Estímulo</text>
+        <text text-anchor="middle" y="84" x="106" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#993c1d">Pressão ou temperatura</text>
+        <text text-anchor="middle" y="296" x="106" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#993c1d">Compressão ou</text>
+        <text text-anchor="middle" y="314" x="106" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#993c1d">aquecimento</text>
+        <path stroke-width=".5" stroke="#0F6E56" fill="#E1F5EE" d="M328 48v274a8 8 0 0 1-8 8H204a8 8 0 0 1-8-8V48a8 8 0 0 1 8-8h116a8 8 0 0 1 8 8z"/>
+        <text text-anchor="middle" y="67" x="262" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#085041">Estrutura</text>
+        <text text-anchor="middle" y="84" x="262" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">Menor distância</text>
+        <text text-anchor="middle" y="296" x="262" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">Distâncias entre</text>
+        <text text-anchor="middle" y="314" x="262" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">moléculas diminuem</text>
+        <path stroke-width=".5" stroke="#0F6E56" fill="#E1F5EE" d="M484 48v274a8 8 0 0 1-8 8H360a8 8 0 0 1-8-8V48a8 8 0 0 1 8-8h116a8 8 0 0 1 8 8z"/>
+        <text text-anchor="middle" y="67" x="418" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#085041">Vibração</text>
+        <text text-anchor="middle" y="84" x="418" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">Banda se desloca</text>
+        <text text-anchor="middle" y="296" x="418" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">Frequências dos</text>
+        <text text-anchor="middle" y="314" x="418" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#0f6e56">modos mudam</text>
+        <path stroke-width=".5" stroke="#5F5E5A" fill="#F1EFE8" d="M640 48v274a8 8 0 0 1-8 8H516a8 8 0 0 1-8-8V48a8 8 0 0 1 8-8h116a8 8 0 0 1 8 8z"/>
+        <text text-anchor="middle" y="67" x="574" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#2c2c2a">Interpretação</text>
+        <text text-anchor="middle" y="84" x="574" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#444441">Transição de fase</text>
+        <text text-anchor="middle" y="296" x="574" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#444441">Novo arranjo</text>
+        <text text-anchor="middle" y="314" x="574" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#444441">molecular</text>
+        <path marker-end="url(#6f3a5874-a089-4fef-8a92-49326cb5cc6d)" stroke-width="1.5" stroke="#5F5E5A" d="M176 185h16"/>
+        <path marker-end="url(#6f3a5874-a089-4fef-8a92-49326cb5cc6d)" stroke-width="1.5" stroke="#5F5E5A" d="M332 185h16"/>
+        <path marker-end="url(#6f3a5874-a089-4fef-8a92-49326cb5cc6d)" stroke-width="1.5" stroke="#5F5E5A" d="M488 185h16"/>
+        <path marker-end="url(#0f09b465-a0f1-488b-b882-2a1da9a96d99)" stroke-width="2" stroke="#D85A30" d="M106 104v24"/>
+        <path stroke-width=".5" stroke="#993C1D" fill="#FAECE7" d="M146 132v8H66v-8z"/>
+        <path stroke-width=".5" stroke="#888780" fill="#FFFFFF" d="M138 140v68H74v-68z"/>
+        <text text-anchor="middle" y="178" x="106" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#5f5e5a">Amostra</text>
+        <path stroke-width=".5" stroke="#993C1D" fill="#FAECE7" d="M146 208v8H66v-8z"/>
+        <path marker-end="url(#0f09b465-a0f1-488b-b882-2a1da9a96d99)" stroke-width="2" stroke="#D85A30" d="M106 244v-24"/>
+        <text text-anchor="middle" y="112" x="262" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#5f5e5a">antes</text>
+        <g stroke-width=".5" stroke="#5F5E5A">
+            <path d="M242 126a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#F1EFE8"/>
+            <path d="M268 126a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#F1EFE8"/>
+            <path d="M294 126a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#F1EFE8"/>
+            <path d="M242 148a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#F1EFE8"/>
+            <path d="M268 148a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#F1EFE8"/>
+            <path d="M294 148a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#F1EFE8"/>
+        </g>
+        <path marker-end="url(#ee491fd0-5264-4d70-813b-72eb7263b115)" stroke-width="2" stroke="#1D9E75" d="M262 160v18"/>
+        <text text-anchor="middle" y="196" x="262" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#5f5e5a">depois</text>
+        <g stroke-width=".5" stroke="#0F6E56">
+            <path d="M252 208a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#E1F5EE"/>
+            <path d="M268 208a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#E1F5EE"/>
+            <path d="M284 208a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#E1F5EE"/>
+            <path d="M252 224a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#E1F5EE"/>
+            <path d="M268 224a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#E1F5EE"/>
+            <path d="M284 224a6 6 0 1 1-12 0 6 6 0 0 1 12 0z" fill="#E1F5EE"/>
+        </g>
+        <text text-anchor="middle" y="120" x="419" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#5f5e5a">deslocamento</text>
+        <path marker-end="url(#6f3a5874-a089-4fef-8a92-49326cb5cc6d)" stroke-width="1.5" stroke="#5F5E5A" d="M404 134h30"/>
+        <path stroke="#5F5E5A" d="M366 236h104"/>
+        <path stroke-dasharray="4 3" stroke-width="1.5" stroke="#5F5E5A" fill="none" d="M378 236c18 0 18-86 26-86s8 86 26 86"/>
+        <path stroke-width="2" stroke="#1D9E75" fill="none" d="M408 236c18 0 18-86 26-86s8 86 26 86"/>
+        <text text-anchor="middle" y="260" x="418" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#5f5e5a">número de onda</text>
+        <path stroke-width=".5" stroke="#888780" fill="#FFFFFF" d="M614 118v22a6 6 0 0 1-6 6h-68a6 6 0 0 1-6-6v-22a6 6 0 0 1 6-6h68a6 6 0 0 1 6 6z"/>
+        <text text-anchor="middle" y="134" x="574" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#2c2c2a">Fase I</text>
+        <path marker-end="url(#6f3a5874-a089-4fef-8a92-49326cb5cc6d)" stroke-width="1.5" stroke="#5F5E5A" d="M574 150v36"/>
+        <text y="172" x="584" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#5f5e5a">transição</text>
+        <path stroke-width=".5" stroke="#0F6E56" fill="#E1F5EE" d="M614 196v22a6 6 0 0 1-6 6h-68a6 6 0 0 1-6-6v-22a6 6 0 0 1 6-6h68a6 6 0 0 1 6 6z"/>
+        <text text-anchor="middle" y="212" x="574" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" fill="#085041">Fase II</text>
+    </g>
+</svg>
