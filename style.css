@@ -118,8 +118,8 @@ footer{max-width:var(--largura);width:100%;margin:0 auto;padding:1rem 1rem 2rem}
 .botao-mapa{display:block;width:fit-content;margin:1.5rem auto 0;padding:.7rem 1.4rem;border-radius:6px;color:#fff;text-decoration:none;
   font-family:var(--fonte-titulo);font-size:1.05rem;background:linear-gradient(var(--cor-botao-topo),var(--cor-botao-base));box-shadow:0 2px 5px rgba(0,0,0,.3)}
 .botao-mapa:hover{filter:brightness(1.08)}
-.politicas{margin-top:2rem;text-align:center;font-size:1rem}
-.politicas a{margin:0 1rem}
+.politicas{margin-top:2rem;display:flex;flex-wrap:wrap;justify-content:center;gap:.5rem 2rem;font-size:1rem}
+.politicas a{margin:0;white-space:nowrap}
 
 /* ===== CELULAR ===== */
 @media (max-width:600px){
