@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 2080 752" height="752" width="2080" viewBox="0 0 2080 752" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <path fill="#ffffff" d="M2080 0v752H0V0z"/>
+        <text font-size="56" text-anchor="middle" y="64" x="1040" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">Como funciona um espectrômetro FTIR</text>
+        <text fill="#3a4a68" font-size="27" text-anchor="middle" y="124" x="1040" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif">O Interferômetro registra todas as frequências em conjunto; a transformada de Fourier reconstrói o espectro</text>
+        <path stroke-width="3" stroke="#c3d0e0" fill="#f5f9fd" d="M2060 262v453H18V262z"/>
+        <text font-size="30" y="303" x="62" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">Caminho óptico no interferômetro de Michelson</text>
+        <path stroke-width="3" stroke="#e67e22" fill="#f2b552" d="M199 446v121H74V446z"/>
+        <g stroke-width="4" stroke="#e67e22">
+            <path d="M96 475h82"/>
+            <path d="M96 507h82"/>
+            <path d="M96 540h82"/>
+        </g>
+        <text font-size="27" text-anchor="middle" y="628" x="137" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">Fonte IR</text>
+        <path stroke-width="5" stroke="#1583c9" d="M208 499h210"/>
+        <path fill="#1583c9" d="m440 499-24 11v-22z"/>
+        <text fill="#1583c9" font-size="27" y="470" x="258" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif">radiação IR</text>
+        <path stroke-width="3" stroke="#14284b" fill="#c9d3e0" d="m497 450 50 50-50 50-50-50z"/>
+        <text font-size="27" text-anchor="middle" y="624" x="497" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">divisor de feixe</text>
+        <path fill="#14284b" d="M553 357v22H445v-22z"/>
+        <text font-size="27" text-anchor="middle" y="339" x="497" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">espelho móvel</text>
+        <path stroke-width="5" stroke="#e8832a" d="M476 446v-36"/>
+        <path fill="#e8832a" d="m476 388 11 24h-22z"/>
+        <path stroke-width="5" stroke="#e8832a" d="M522 388v36"/>
+        <path fill="#e8832a" d="m522 446-11-24h22z"/>
+        <text fill="#e02020" font-size="27" y="422" x="570" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif">deslocamento</text>
+        <path stroke-width="4" stroke="#7a45b5" d="M547 484h283"/>
+        <path fill="#7a45b5" d="m852 484-24 11v-22z"/>
+        <path stroke-width="4" stroke="#7a45b5" d="M852 524H567"/>
+        <path fill="#7a45b5" d="m545 524 24-11v22z"/>
+        <path fill="#14284b" d="M876 427v147h-23V427z"/>
+        <text font-size="27" text-anchor="middle" y="611" x="864" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">espelho</text>
+        <text font-size="27" text-anchor="middle" y="643" x="864" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">fixo</text>
+        <path stroke-width="5" stroke="#1ea05f" d="M884 499h416"/>
+        <path fill="#1ea05f" d="m1322 499-24 11v-22z"/>
+        <text fill="#1ea05f" font-size="27" y="473" x="901" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif">interferograma óptico</text>
+        <path stroke-width="3" stroke="#1583c9" fill="#bde0f2" d="M1447 445v128h-107V445z"/>
+        <path fill="#1583c9" d="M1466 425v20h-145v-20z"/>
+        <text font-size="27" text-anchor="middle" y="628" x="1392" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">amostra</text>
+        <path stroke-width="5" stroke="#1ea05f" d="M1454 499h276"/>
+        <path fill="#1ea05f" d="m1752 499-24 11v-22z"/>
+        <path stroke-width="3" stroke="#1ea05f" fill="#cde8d6" d="M1888 429v142h-122V429z"/>
+        <path fill="#25975a" d="M1859 462v76h-64v-76z"/>
+        <g stroke-width="4" stroke="#ffffff">
+            <path d="m1805 470 45 60"/>
+            <path d="m1850 470-45 60"/>
+        </g>
+        <text font-size="27" text-anchor="middle" y="629" x="1827" font-family="&quot;Ubuntu&quot;,&quot;Segoe UI&quot;,&quot;Helvetica Neue&quot;,&quot;DejaVu Sans&quot;,Arial,sans-serif" font-weight="700" fill="#14284b">detector</text>
+    </g>
+</svg>

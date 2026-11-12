@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 1600 1000" viewBox="0 0 1600 1000" height="1000" width="1600" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <rect fill="#ffffff" height="100%" width="100%"/>
+        <text text-anchor="middle" y="58" x="800" style="font:700 34px Arial,sans-serif" fill="#18324a">A mesma molécula observada por duas técnicas vibracionais</text>
+        <text text-anchor="middle" y="105" x="800" style="font:500 21px Arial,sans-serif" fill="#66727d">Molécula-modelo: CO₂</text>
+        <path stroke-linecap="round" stroke-width="16" stroke="#9aa6b1" d="M655 175h90"/>
+        <path stroke-linecap="round" stroke-width="16" stroke="#9aa6b1" d="M855 175h90"/>
+        <path fill="#273746" d="M842 175c0 23.196-18.804 42-42 42s-42-18.804-42-42 18.804-42 42-42 42 18.804 42 42"/>
+        <path fill="#d85b5b" d="M657 175c0 17.673-14.327 32-32 32s-32-14.327-32-32 14.327-32 32-32 32 14.327 32 32"/>
+        <path fill="#d85b5b" d="M1007 175c0 17.673-14.327 32-32 32s-32-14.327-32-32 14.327-32 32-32 32 14.327 32 32"/>
+        <text fill="#ffffff" font-weight="700" font-size="24" font-family="Arial" text-anchor="middle" y="185" x="625">O</text>
+        <text fill="#ffffff" font-weight="700" font-size="24" font-family="Arial" text-anchor="middle" y="185" x="800">C</text>
+        <text fill="#ffffff" font-weight="700" font-size="24" font-family="Arial" text-anchor="middle" y="185" x="975">O</text>
+        <path stroke-width="7" stroke="#d98d32" d="M625 245h-55"/>
+        <path fill="#d98d32" d="m555 245 25-13v26z"/>
+        <path stroke-width="7" stroke="#d98d32" d="M975 245h55"/>
+        <path fill="#d98d32" d="m1045 245-25-13v26z"/>
+        <text text-anchor="middle" y="255" x="800" style="font:600 19px Arial,sans-serif" fill="#18324a">estiramento simétrico</text>
+        <path stroke-width="7" stroke="#c94c55" d="M555 305h65"/>
+        <path fill="#c94c55" d="m635 305-25-13v26z"/>
+        <path stroke-width="7" stroke="#c94c55" d="M975 305h65"/>
+        <path fill="#c94c55" d="m1055 305-25-13v26z"/>
+        <text text-anchor="middle" y="315" x="800" style="font:600 19px Arial,sans-serif" fill="#18324a">estiramento assimétrico</text>
+        <text text-anchor="middle" y="350" x="800" style="font:600 19px Arial,sans-serif" fill="#66727d">simétrico: Raman ativo · IR inativo   |   assimétrico: IR ativo · Raman inativo   |   flexão: IR ativa</text>
+        <path stroke-width="2" stroke="#d5dde2" d="M110 370h1380"/>
+        <path stroke-width="2" stroke="#c9dce8" fill="#eef6fb" d="M1495 421v218c0 8.837-7.163 16-16 16H121c-8.837 0-16-7.163-16-16V421c0-8.837 7.163-16 16-16h1358c8.837 0 16 7.163 16 16z"/>
+        <text y="450" x="145" style="font:700 26px Arial,sans-serif" fill="#18324a">Raman</text>
+        <text y="480" x="145" style="font:600 19px Arial,sans-serif" fill="#66727d">variação da polarizabilidade</text>
+        <path stroke-width="3" stroke="#66727d" d="M190 580h1260"/>
+        <path stroke-width="3" stroke="#66727d" d="M190 505v75"/>
+        <path stroke-linejoin="round" stroke-width="5" stroke="#1769aa" fill="none" d="m227.8 572.9 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.5-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1h5.4l5.4-.1h5.4l5.4-.1h32.5l5.4.1H363l5.4.1 5.4.1h5.4l5.4.1 5.4.1 5.5.1h5.4l5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.5.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1h5.4l5.4.1 5.4.1h16.2l5.5-.1 5.4-.7 5.4-2.8 5.4-7.7 5.4-14.4 5.4-17.8 5.4-11.8 5.4 2.8 5.4 15.2 5.4 17.4 5.4 11.9 5.4 5.5 5.5 1.7 5.4.4h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.5-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1h5.4l5.4-.1h10.9l5.4-.1h27l5.4.1H774l5.4.1h5.4l5.5.1 5.4.1h5.4l5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.5.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1h5.4l5.4.1 5.4.1h5.4l5.5.1h5.4l5.4.1h37.8l5.4-.1H985l5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.5-.2 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.5-.1h5.4l5.4-.1h5.4l5.4-.1h32.4l5.4.1h5.5l5.4.1h5.4l5.4.1h5.4l5.4.1 5.4.1 5.4.1 5.4.1h5.4l5.4.1 5.4.1 5.5.1 5.4.1 5.4.1 5.4.2 5.4.1 5.4.1 5.4.1 5.4.1h5.4l5.4.1 5.4.1 5.4.1 5.5.1h5.4l5.4.1 5.4.1h10.8l5.4.1h37.9l5.4-.1h5.4l5.4-.1h5.4l5.4-.1"/>
+        <text text-anchor="middle" transform="rotate(-90 80 548)" y="548" x="80" style="font:500 21px Arial,sans-serif" fill="#66727d">intensidade</text>
+        <text text-anchor="middle" y="632" x="820" style="font:500 21px Arial,sans-serif" fill="#66727d">número de onda (cm⁻¹)</text>
+        <path stroke-width="2" stroke="#ecd0cf" fill="#fff3f2" d="M1495 706v218c0 8.837-7.163 16-16 16H121c-8.837 0-16-7.163-16-16V706c0-8.837 7.163-16 16-16h1358c8.837 0 16 7.163 16 16z"/>
+        <text y="735" x="145" style="font:700 26px Arial,sans-serif" fill="#18324a">Infravermelho</text>
+        <text y="765" x="145" style="font:600 19px Arial,sans-serif" fill="#66727d">variação do momento dipolar</text>
+        <path stroke-width="3" stroke="#66727d" d="M190 865h1260"/>
+        <path stroke-width="3" stroke="#66727d" d="M190 790v75"/>
+        <path stroke-linejoin="round" stroke-width="5" stroke="#c94c55" fill="none" d="m227.8 857.9 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.5-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1h5.4l5.4-.1h5.4l5.4-.1h32.5l5.4.1H363l5.4.1 5.4.1h5.4l5.4.1 5.4.1 5.5.1h5.4l5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.5.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1h5.4l5.4.1 5.4.1h10.8l5.4.1h37.9l5.4-.1h5.4l5.4-.1h5.4l5.4-.1 5.5-.1h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.5-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1h5.4l5.4-.1h10.9l5.4-.1h27l5.4.1H774l5.4.1h5.4l5.5.1 5.4.1h5.4l5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4.1 5.5.1 5.4.1 5.4.1 5.4.1 5.4.1 5.4-.1 5.4-.8 5.4-2.7 5.4-6.6 5.4-11.3 5.4-12.1 5.4-5.5 5.5 5.2 5.4 12.1 5.4 11.5 5.4 7 5.4 2.9 5.4.9 5.4.2h16.2l5.4-.1H985l5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.5-.2 5.4-.1 5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.4-.1 5.4-.1 5.4-.1 5.4-.1h5.4l5.5-.1h5.4l5.4-.1h5.4l5.4-.1h32.4l5.4.1h5.5l5.4.1h5.4l5.4.1h5.4l5.4.1 5.4.1 5.4.1h5.4l5.4.1 5.4-.3 5.4-1.6 5.5-5 5.4-11.2 5.4-16.5 5.4-14.8 5.4-3.2 5.4 10.9 5.4 17.2 5.4 14.2 5.4 7.6 5.4 3 5.4.8 5.4.3 5.5.1h5.4l5.4.1 5.4.1h10.8l5.4.1h37.9l5.4-.1h5.4l5.4-.1h5.4l5.4-.1"/>
+        <text text-anchor="middle" transform="rotate(-90 80 833)" y="833" x="80" style="font:500 21px Arial,sans-serif" fill="#66727d">absorbância</text>
+        <text text-anchor="middle" y="917" x="820" style="font:500 21px Arial,sans-serif" fill="#66727d">número de onda (cm⁻¹)</text>
+        <path stroke-dasharray="8,8" stroke-width="2" stroke="#b9c5cc" d="M545 500v370"/>
+        <path stroke-dasharray="8,8" stroke-width="2" stroke="#b9c5cc" d="M800 500v370"/>
+        <path stroke-dasharray="8,8" stroke-width="2" stroke="#b9c5cc" d="M1055 500v370"/>
+    </g>
+</svg>

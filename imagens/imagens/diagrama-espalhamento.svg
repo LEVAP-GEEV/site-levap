@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-bbox="0 0 680 300" height="900" width="2040" viewBox="0 0 680 300" xmlns="http://www.w3.org/2000/svg" data-type="ugc">
+    <g>
+        <path fill="#ffffff" d="M680 0v300H0V0z"/>
+        <path stroke="#000000" stroke-width="1.6" d="M150 8h380"/>
+        <path stroke="#000000" stroke-width="1.6" d="M150 64h380"/>
+        <path stroke="#000000" stroke-width="1.6" d="M150 200h380"/>
+        <path stroke="#000000" stroke-width="1.6" d="M150 216h380"/>
+        <path stroke="#000000" stroke-width="1.6" d="M150 233h380"/>
+        <path stroke="#000000" stroke-width="1.6" d="M150 253h380"/>
+        <path stroke="#000000" stroke-width="1.6" d="M150 285h380"/>
+        <text y="205" x="540" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="13" fill="#000000">4</text>
+        <text y="221" x="540" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="13" fill="#000000">3</text>
+        <text y="238" x="540" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="13" fill="#000000">2</text>
+        <text y="258" x="540" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="13" fill="#000000">1</text>
+        <text y="290" x="540" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="13" fill="#000000">0</text>
+        <path fill="#ff0000" d="M162 64h12v172h7l-13 15-13-15h7z"/>
+        <path fill="#00a651" d="M185 285V78h-6l7-14 7 14h-6v207z"/>
+        <path fill="#13294b" d="M311 64h20v200h14l-24 21-24-21h14z"/>
+        <path fill="#00a651" d="M341 285V84h-11l21-20 21 20h-11v201z"/>
+        <path fill="#00a651" d="M487 253V22h-6l8-14 8 14h-6v231z"/>
+        <path fill="#00b0f0" d="M508 8h8v263h7l-11 14-11-14h7z"/>
+        <path stroke-width="1.2" stroke="#000000" d="M150 253v32"/>
+        <path fill="#000000" d="m150 253-4 8h8z"/>
+        <path fill="#000000" d="m150 285-4-8h8z"/>
+        <text fill="#000000" font-size="22" y="276" x="102" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">ν<tspan dy="5" font-size="14">vib</tspan></text>
+        <text fill="#13294b" text-anchor="middle" y="112" x="228" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Dispersão</text>
+        <text fill="#13294b" text-anchor="middle" y="132" x="228" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">de Rayleigh</text>
+        <text fill="#00a651" text-anchor="middle" y="112" x="397" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Energia de</text>
+        <text fill="#00a651" text-anchor="middle" y="132" x="397" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">excitação</text>
+        <text fill="#ff0000" text-anchor="middle" y="125" x="75" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Dispersão Raman</text>
+        <text fill="#ff0000" text-anchor="middle" y="145" x="75" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Stokes</text>
+        <text fill="#00b0f0" text-anchor="middle" y="112" x="598" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Dispersão Raman</text>
+        <text fill="#00b0f0" text-anchor="middle" y="132" x="598" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Anti-Stokes</text>
+        <text fill="#000000" text-anchor="middle" y="30" x="598" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Estados</text>
+        <text fill="#000000" text-anchor="middle" y="49" x="598" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">virtuais</text>
+        <text fill="#000000" text-anchor="middle" y="228" x="598" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">Estados de</text>
+        <text fill="#000000" text-anchor="middle" y="246" x="598" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">energia</text>
+        <text fill="#000000" text-anchor="middle" y="264" x="598" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-weight="700" font-size="15">vibracional</text>
+        <text fill="#00a651" font-size="22" y="176" x="198" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">ν<tspan dy="5" font-size="14">0</tspan></text>
+        <text fill="#00a651" font-size="22" y="176" x="366" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">ν<tspan dy="5" font-size="14">0</tspan></text>
+        <text text-anchor="end" fill="#00a651" font-size="22" y="176" x="462" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">ν<tspan dy="5" font-size="14">0</tspan></text>
+        <text fill="#ff0000" font-size="24" y="184" x="12" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">ν = ν<tspan dy="5" font-size="15">0</tspan><tspan dy="-5"> − ν</tspan><tspan dy="5" font-size="15">vib</tspan></text>
+        <text fill="#00b0f0" font-size="24" y="184" x="520" font-family="&quot;Times New Roman&quot;,Times,&quot;DejaVu Serif&quot;,serif" font-style="italic">ν = ν<tspan dy="5" font-size="15">0</tspan><tspan dy="-5"> + ν</tspan><tspan dy="5" font-size="15">vib</tspan></text>
+    </g>
+</svg>
